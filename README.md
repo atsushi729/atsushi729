@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atsushi729
-- 👀 I’m interested in PHP, especially laravel.
+- 👀 I’m interested in backend engineer.
 - 🌱 I’m currently learning PHP, especially laravel. I'm also laerning AWS. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me i'm on twitter so please DM me if you want.
