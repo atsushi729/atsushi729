@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atsushi729
+- 👋 Hi, I’m @atsushi729, living in Tokyo, Japan.
 - 👀 I’m interested in backend engineer.
 - 🌱 I’m currently learning PHP, especially laravel. I'm also laerning AWS. 
 - 💞️ I’m looking to collaborate on ...
